@@ -1,1 +1,3 @@
-# ICLR_2020
+# AFGNN
+Pytorch Implementation of paper: 
+Demystifying Graph Neural Network Via Graph Filter Assessment
